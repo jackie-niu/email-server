@@ -35,7 +35,7 @@ public class EmailClientGUI implements ActionListener {
     public EmailClientGUI() {  
 	currentScreen = Globals.RECEIVER_ID; 
 	
-	frame = new JFrame("Bloor CI Email Client Version 2019.1 - Computer Science 12 Afternoon");
+	frame = new JFrame("TDSB Email Client");
 	frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	frame.setLocation(100, 10);
 	frame.setResizable(false);
